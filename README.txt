@@ -1,3 +1,4 @@
+(content matches README.md)
 HOW TO SET UP:
 Extract the zip to any folder.
 Right click: fps unlocker.exe
@@ -36,6 +37,5 @@ if you accidentally forgot where you installed the folder to, right click the ic
 
 GITHUB:
 https://github.com/quadruplicate/fps-unlocker-installer
-
 OLD FPS UNLOCKER:
 https://github.com/quadruplicate/fps-unlocker-installer-OLD
