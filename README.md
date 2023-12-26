@@ -1,14 +1,14 @@
 HOW TO SET UP:
-Extract the zip to any folder.
-Right click: fps unlocker.exe
-Hover over "Send to"
-Select "Desktop (create shortcut)"
-Rename the shortcut to anything you want.
+* Extract the zip to any folder.
+* Right click: fps unlocker.exe
+* Hover over "Send to"
+* Select "Desktop (create shortcut)"
+* Rename the shortcut to anything you want.
 
 FEATURES:
-fps unlocker (of course)
-customize your cursor icons, and easily replace them when they get deleted from a roblox update
-customize your oof sound, either bring back oof or put anything you want.
+* fps unlocker (of course)
+* customize your cursor icons, and easily replace them when they get deleted from a roblox update
+* customize your oof sound, either bring back oof or put anything you want.
 
 why you should use an fps unlocker even if your monitor is only 60 hz:
 roblox is completely parallel with vsync, instead uses their own janky method of preventing screen tearing,
