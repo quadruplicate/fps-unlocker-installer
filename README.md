@@ -33,3 +33,8 @@ this program does not install itself anywhere, thus why you had to create the sh
 so that means, to delete this, all you have to do is just delete the folder you installed it into.
 if you accidentally forgot where you installed the folder to, right click the icon on desktop, then click
 "Open file location", and you're free to delete everything there.
+
+GITHUB:
+https://github.com/quadruplicate/fps-unlocker-installer
+OLD FPS UNLOCKER:
+https://github.com/quadruplicate/fps-unlocker-installer-OLD
