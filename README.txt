@@ -1,4 +1,5 @@
 (content matches README.md)
+
 HOW TO SET UP:
 Extract the zip to any folder.
 Right click: fps unlocker.exe
